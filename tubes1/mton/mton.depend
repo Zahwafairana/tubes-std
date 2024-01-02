@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1704017555 source:c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\mahasiswa.cpp
+	"mahasiswa.h"
+
+1703430767 c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\mahasiswa.h
+	<iostream>
+
+1704019832 source:c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\main.cpp
+	<iostream>
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+	"menu.h"
+
+1703429039 c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\matakuliah.h
+	<iostream>
+
+1704016283 source:c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\matakuliah.cpp
+	"matakuliah.h"
+
+1704019832 c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\relasi.h
+	"mahasiswa.h"
+	"matakuliah.h"
+	<iostream>
+
+1704019832 source:c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\relasi.cpp
+	"relasi.h"
+
+1704019747 source:c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\menu.cpp
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+
+1703852124 c:\users\harits arkaan\documents\tel-u docs\strukdat\tubes\tubes1\mton\menu.h
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+	<iostream>
+
+1704119042 source:c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\mahasiswa.cpp
+	"mahasiswa.h"
+
+1704119042 c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\mahasiswa.h
+	<iostream>
+
+1704177450 source:c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\main.cpp
+	<iostream>
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+	"menu.h"
+
+1704119042 c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\matakuliah.h
+	<iostream>
+
+1704119042 c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\relasi.h
+	"mahasiswa.h"
+	"matakuliah.h"
+	<iostream>
+
+1704119042 c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\menu.h
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+	<iostream>
+
+1704119042 source:c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\matakuliah.cpp
+	"matakuliah.h"
+
+1704176349 source:c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\menu.cpp
+	"mahasiswa.h"
+	"matakuliah.h"
+	"relasi.h"
+
+1704177450 source:c:\users\zahwa ayska fairana\onedrive\documents\tubes std\tubes\tubes1\mton\relasi.cpp
+	"relasi.h"
+
